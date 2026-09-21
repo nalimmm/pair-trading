@@ -4,11 +4,6 @@ A walk-forward pairs trading backtest on 4 US equity pairs, with a proper
 train/test split, transaction costs, and an honest out-of-sample evaluation
 (including when the strategy doesn't work).
 
-## Why this project
-
-Built as a technical showcase for quant/stat-arb roles. The goal wasn't to
-produce a nice-looking equity curve - it was to build a methodology clean
-enough that a negative result is trustworthy and interpretable.
 
 ## Method
 
