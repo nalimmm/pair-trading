@@ -1,0 +1,4 @@
+yfinance
+statsmodels
+pandas
+numpy
